@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "instagram-video-controls",
-  "description": "Enables instagram video controls",
+  "name": "instagram-normalizer",
+  "description": "Instagram video controls and copy image or video url",
   "version": "1.0",
   "content_scripts": [
     {
