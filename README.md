@@ -1,6 +1,6 @@
-instagram video controls chrome extension
+instagram video controls and copy image or video url chrome extension
 -------------------
 
-simply enables instagram video controls
+instagram video controls and copy image or video url
 
 can be downloaded from [](here)
